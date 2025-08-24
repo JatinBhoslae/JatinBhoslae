@@ -1,13 +1,79 @@
-<h1 align="center">Hi 👋, I'm Jatin Bhosale</h1>
-<h3 align="center">A passionate FullStack Devloper From India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinbhoslae&label=Profile%20views&color=0e75b6&style=flat" alt="jatinbhoslae" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-bhosale-993712374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-bhosale-993712374/" height="30" width="40" /></a>
-<a href="https://instagram.com/http://instagram.com/jatin_bhosale_96k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://instagram.com/jatin_bhosale_96k/" height="30" width="40" /></a>
+<!-- Profile Header -->
+<h1 align="center">Hey, I'm Jatin Bhosale 👋</h1>
+<p align="center">
+  Frontend Developer • Aspiring Full Stack • AIML Enthusiast
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/JatinBhoslae?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/JatinBhoslae?style=flat&label=Followers">
+  </a>
+  <a href="https://github.com/JatinBhoslae">
+    <img alt="Stars" src="https://img.shields.io/github/stars/JatinBhoslae?affiliations=OWNER%2CCOLLABORATOR">
+  </a>
+  <a href="mailto:jatinbhosale428@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/jatin-bhosale-846397301/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me  
+- 💻 Frontend Developer passionate about **building interactive UIs**  
+- 🚀 On my way to becoming a **Full Stack Developer**  
+- 🧩 I learn by **building projects** and solving real-world problems  
+- 📬 Reach me: **jatinbhosale428@gmail.com**  
+
+---
+
+### 🧰 Tech Stack  
+<p>
+  <!-- Core Web -->
+  <img alt="HTML5" title="HTML5" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <!-- Frameworks / Libraries -->
+  <img alt="React" title="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Bootstrap" title="Bootstrap" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img alt="Tailwind CSS" title="Tailwind CSS" height="32" src="https://img.icons8.com/color/48/tailwind_css.png"/>
+  <!-- Tools -->
+  <img alt="Git" title="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="VS Code" title="VS Code" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</p>
+
+---
+
+### 🧩 Featured Projects  
+- **Portfolio Website** – Responsive website built with **HTML, CSS, JS, React**  
+  🔗 [Live](https://jatinbhoslae.github.io/portfolio) • 💻 [Code](https://github.com/JatinBhoslae/portfolio)  
+- **Chess Course Website** – Interactive platform for chess courses built with **HTML, CSS, JS**  
+  🔗 [Live](https://jatinbhoslae.github.io/Chess) • 💻 [Code](https://github.com/JatinBhoslae/Chess)
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JatinBhoslae&show_icons=true&hide_title=false&hide_border=true&theme=radical" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinBhoslae&layout=compact&hide_border=true&theme=radical" />
+</p>
+
+---
+
+### 🤝 Let’s Connect  
+<p>
+  <a href="mailto:jatinbhosale428@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-jatinbhosale428@gmail.com-informational?logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/jatin-bhosale-846397301/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jatin%20Bhosale-blue?logo=linkedin">
+  </a>
+  <a href="https://github.com/JatinBhoslae">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JatinBhoslae-black?logo=github">
+  </a>
+</p>
+
+<p align="center"><i>“Code. Build. Learn. Repeat.”</i></p>
